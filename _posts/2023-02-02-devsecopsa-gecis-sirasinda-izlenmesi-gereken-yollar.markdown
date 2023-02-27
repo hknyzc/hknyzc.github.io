@@ -5,7 +5,7 @@ date: 2023-02-02 22:44
 tag:
 - devsecops
 - appsec
-star: true
+star: false
 category: blog
 author: hakanyazici
 ---
