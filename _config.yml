@@ -1,6 +1,6 @@
 # main text of home
 title: Hakan YAZICI
-bio: A Turkish Computer Engineer with an interest in Application Security and DevSecOps and a master's degree in Information Security
+bio: A Turkish Computer Engineer interested in Application Security and DevSecOps and holding a Master's degree in Information Security and Certified DevSecOps Professional (CDP) certification
 
 # twitter summary info
 description: A blog about Application Security, DevSecOps and stuff related
@@ -44,7 +44,7 @@ email: hyazici32@yahoo.com
 authors:
   hakanyazici:
     name: Hakan YAZICI
-    bio: A Turk Computer Engineer with an interest in Application Security and DevSecOps and a master's degree in Information Security
+    bio: A Turkish Computer Engineer interested in Application Security and DevSecOps and holding a Master's degree in Information Security and Certified DevSecOps Professional (CDP) certification
     external-image: false
     picture: assets/images/profile.jpg
 
