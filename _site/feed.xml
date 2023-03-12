@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-08T12:51:10+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hakan YAZICI</title><subtitle>A blog about Application Security, DevSecOps and stuff related</subtitle><entry><title type="html">DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar</title><link href="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/" rel="alternate" type="text/html" title="DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar" /><published>2023-02-02T22:44:00+03:00</published><updated>2023-02-02T22:44:00+03:00</updated><id>http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar</id><content type="html" xml:base="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/">&lt;p&gt;DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-12T16:52:08+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hakan YAZICI</title><subtitle>A blog about Application Security, DevSecOps and stuff related</subtitle><entry><title type="html">DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar</title><link href="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/" rel="alternate" type="text/html" title="DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar" /><published>2023-02-02T22:44:00+03:00</published><updated>2023-02-02T22:44:00+03:00</updated><id>http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar</id><content type="html" xml:base="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/">&lt;p&gt;DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.&lt;/p&gt;
 
 &lt;h1 id=&quot;ekip-çalışması&quot;&gt;Ekip Çalışması&lt;/h1&gt;
 
@@ -30,4 +30,1059 @@ Güvenlik araçları, uygulamanın geliştirilmesinden dağıtımına kadar tüm
 Özet olarak, kuruma uygun güvenlik araçlarının doğru şekilde seçilmesi ve entegrasyonu, DevSecOps’a geçiş sürecinde güvenli uygulama geliştirme süreci oluşturmak için çok önemlidir. Bu adım, şirketin güvenliğine yönelik stratejilerini doğru yapılandırmasına ve müşteri beklentilerini karşılamasına yardımcı olacaktır.&lt;/p&gt;
 
 &lt;p&gt;Bu başlıklar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollar olarak tanımlanabilir. DevSecOps, güvenli uygulama geliştirme süreçleri sunar ve şirketler için önemli bir fırsattır. Ancak, doğru yollar izlenerek ve ekip çalışması, güncel teknolojiler, eğitim ve içsel kültür, planlama ve yürütme ve güvenlik araçlarının seçimi ve entegrasyonu gibi faktörlerin desteklenmesi gerekir. Bu faktörler, şirketlerin DevSecOps’a geçiş sürecinde başarılı olmasına ve uygulama geliştirme süreçlerinin güvenli ve verimli hale gelmesine yardımcı olacaktır.
-Bu konuda destek almak ve hizmetlerimizden yararlanmak isterseniz, bana doğrudan ulaşabilirsiniz.&lt;/p&gt;</content><author><name>hakanyazici</name></author><category term="blog" /><category term="devsecops" /><category term="appsec" /><summary type="html">DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.</summary></entry></feed>
+Bu konuda destek almak ve hizmetlerimizden yararlanmak isterseniz, bana doğrudan ulaşabilirsiniz.&lt;/p&gt;</content><author><name>hakanyazici</name></author><category term="blog" /><category term="devsecops" /><category term="appsec" /><summary type="html">DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.</summary></entry><entry><title type="html">En Tehlikeli 25 Yazılım Açığı Güncellendi</title><link href="http://localhost:4000/en-tehlikeli-25-yazilim-acigi-guncelllendi/" rel="alternate" type="text/html" title="En Tehlikeli 25 Yazılım Açığı Güncellendi" /><published>2021-07-29T10:00:00+03:00</published><updated>2021-07-29T10:00:00+03:00</updated><id>http://localhost:4000/en-tehlikeli-25-yazilim-acigi-guncelllendi</id><content type="html" xml:base="http://localhost:4000/en-tehlikeli-25-yazilim-acigi-guncelllendi/">&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;MITRE, geçmiş iki yıl boyunca yazılımcıların başına bela olan en yaygın ve en tehlikeli açıkların ilk 25 listesini paylaştı.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;Yazılım zafiyetleri, bir yazılım çözümünün kodunu, mimarisini, uygulamasını veya tasarımını etkileyen ve üzerinde çalıştığı sistemleri potansiyel olarak saldırılara maruz bırakan kusurlar, hatalar, güvenlik açıkları ve diğer çeşitli hata türleridir.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;MITRE, Ulusal Güvenlik Açığı Veritabanından (NVD) (yaklaşık 27.000 CVE) elde edilen 2019 ve 2020 yıllarına ait Yaygın Güvenlik Açıkları ve Etkilenmeleri (Common Vulnerabilities and Exposures) verilerini kullanarak ilk 25 listesini güncelledi.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;MITRE tarafından yapılan açıklamaya göre “Bir CWE’nin bir güvenlik açığının temel nedeni olduğu sıklığı ile sömürünün öngörülen ciddiyetini birleştiren sıralı bir zayıflık sırasını hesaplamak için bir puanlama formülü kullanır. Bu yaklaşım, gerçek dünyada şu anda hangi güvenlik açıklarının görüldüğüne nesnel bir bakış sağlar, özel anketler ve görüşler yerine kamuya açık olarak bildirilen güvenlik açıkları üzerine kurulu bir analitik titizlik temeli oluşturur ve süreci kolayca tekrarlanabilir hale getirir.”&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;MITRE’nin 2021’deki en önemli 25 hatası, genellikle keşfedilmeleri kolay, yüksek etkiye sahip oldukları ve son iki yılda piyasaya sürülen yazılımlarda yaygın oldukları için tehlikelidir.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;Ayrıca, saldırganlar tarafından, potansiyel olarak savunmasız sistemlerin tam kontrolünü ele geçirmek, hedeflerin hassas verilerini çalmak veya başarılı bir istismarın ardından bir hizmet reddini (DoS) tetiklemek için kötüye kullanılabilirler.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;Aşağıdaki liste, genel olarak topluluğa en kritik ve güncel yazılım güvenliği zayıflıkları hakkında fikir vermektedir.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;t.83140adf6283dde21ac70b63e9e496db9b1604cc&quot;&gt;&lt;/a&gt;&lt;a id=&quot;t.0&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table class=&quot;c28&quot;&gt;
+
+&lt;tbody&gt;
+
+&lt;tr class=&quot;c2&quot;&gt;
+
+&lt;td class=&quot;c22&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt; Sırası &lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c33&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;&amp;nbsp; ID &lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c23&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;&amp;nbsp; ADI &lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c27&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;&amp;nbsp; Puanı&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[1]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-787](https://cwe.mitre.org/data/definitions/787.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Out-of-bounds Write&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;65.93&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[2]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-79](https://cwe.mitre.org/data/definitions/79.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Neutralization of Input During Web Page Generation (&apos;Cross-site Scripting&apos;)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;46.84&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[3]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-125](https://cwe.mitre.org/data/definitions/125.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Out-of-bounds Read&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;24.9&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[4]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-20]( https://cwe.mitre.org/data/definitions/20.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Input Validation&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;20.47&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c24&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[5]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-78](https://cwe.mitre.org/data/definitions/78.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Neutralization of Special Elements used in an OS Command (&apos;OS Command Injection&apos;)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;19.55&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[6]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-89](https://cwe.mitre.org/data/definitions/89.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Neutralization of Special Elements used in an SQL Command (&apos;SQL Injection&apos;)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;19.54&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[7]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-416](https://cwe.mitre.org/data/definitions/416.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt; &amp;nbsp;Use After Free&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;16.83&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[8]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-22](https://cwe.mitre.org/data/definitions/22.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Limitation of a Pathname to a Restricted Directory (&apos;Path Traversal&apos;)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;14.69&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[9]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-352](https://cwe.mitre.org/data/definitions/352.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Cross-Site Request Forgery (CSRF)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;14.46&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[10]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-434](https://cwe.mitre.org/data/definitions/434.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Unrestricted Upload of File with Dangerous Type&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;8.45&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[11]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-306](https://cwe.mitre.org/data/definitions/306.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Missing Authentication for Critical Function&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;7.93&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[12]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-190](https://cwe.mitre.org/data/definitions/190.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Integer Overflow or Wraparound&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;7.12&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[13]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-502](https://cwe.mitre.org/data/definitions/502.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Deserialization of Untrusted Data&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;6.71&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[14]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-287](https://cwe.mitre.org/data/definitions/287.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Authentication&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;6.58&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[15]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-476](https://cwe.mitre.org/data/definitions/476.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;NULL Pointer Dereference&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;6.54&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[16]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-798](https://cwe.mitre.org/data/definitions/798.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Use of Hard-coded Credentials&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;6.27&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[17]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-119](https://cwe.mitre.org/data/definitions/119.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Restriction of Operations within the Bounds of a Memory Buffer&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;5.84&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[18]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-862](https://cwe.mitre.org/data/definitions/862.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Missing Authorization&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;5.47&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[19]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-276](https://cwe.mitre.org/data/definitions/276.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Incorrect Default Permissions&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;5.09&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[20]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-200](https://cwe.mitre.org/data/definitions/200.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Exposure of Sensitive Information to an Unauthorized Actor&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;4.74&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[21]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-522](https://cwe.mitre.org/data/definitions/522.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Insufficiently Protected Credentials&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;4.21&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[22]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-732](https://cwe.mitre.org/data/definitions/732.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Incorrect Permission Assignment for Critical Resource&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;4.2&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c3&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[23]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-611](https://cwe.mitre.org/data/definitions/611.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Restriction of XML External Entity Reference&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;4.02&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[24]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-918](https://cwe.mitre.org/data/definitions/918.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Server-Side Request Forgery (SSRF)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;3.78&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c29&quot;&gt;
+
+&lt;td class=&quot;c12&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;[25]&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c16&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c8&quot;&gt;[CWE-77](https://cwe.mitre.org/data/definitions/77.html)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c7&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;&amp;nbsp;Improper Neutralization of Special Elements used in a Command (&apos;Command Injection&apos;)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c15&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;3.58&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;en-çok-yararlanılan-10-güvenlik-açığı&quot;&gt;&lt;span class=&quot;c31&quot;&gt;En çok yararlanılan 10 güvenlik açığı&lt;/span&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;Geçen yıl, 12 Mayıs’ta Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA) ve Federal Soruşturma Bürosu (FBI), 2016 ve 2019 yılları arasında en çok yararlanılan 10 güvenlik açığının bir listesini de yayınlamıştı.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;“İlk 10 içinde, Çin, İran, Kuzey Kore ve Rusya’dan devlet destekli siber aktörler arasında en sık kullanılan üç güvenlik açığı CVE-2017-11882, CVE-2017-0199 ve CVE-2012-0158,” CISA söz konusu. “Bu güvenlik açıklarının üçü de Microsoft’un OLE teknolojisiyle ilgilidir.”&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Çinli bilgisayar korsanları Aralık 2018’den itibaren sık sık&lt;/span&gt; &lt;span class=&quot;c21&quot;&gt;&lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2012-0158&quot;&gt;CVE-2012-0158&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;c13&quot;&gt;‘den yararlanarak hedeflerinin güvenlik güncellemelerini hemen uygulayamadıklarını ve tehdit aktörlerinin yama yapılmadığı sürece hataları kötüye kullanmaya devam edeceklerini gösterdi.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;Saldırganlar ayrıca Office 365 gibi bulut işbirliği hizmetlerinin aceleye getirilmesinden kaynaklanan güvenlik açıklarından yararlanmaya da odaklanıyor.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Yamasız Pulse Secure VPN güvenlik açıkları (&lt;/span&gt;&lt;span class=&quot;c21&quot;&gt;&lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2019-11510&quot;&gt;CVE-2019-11510&lt;/a&gt;&lt;/span&gt;&lt;span&gt;) ve Citrix VPN (&lt;/span&gt;&lt;span class=&quot;c21&quot;&gt;&lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2019-19781&quot;&gt;CVE-2019-19781&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;c13&quot;&gt;), devam eden COVID-19 pandemisinin neden olduğu uzaktan çalışmaya geçişin ardından geçen yıl da favori bir hedef oldu.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;CISA, eski yama uygulanmamış güvenlik hatalarını azaltmanın en kolay ve en hızlı yolu olarak, ömrünü tamamlamış yazılımlardan mümkün olan en kısa sürede geçiş yapılmasını önerir.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;2016’dan bu yana en çok yararlanılan 10 güvenlik açığının tam listesi, NVD girdilerine doğrudan bağlantılarla birlikte aşağıda mevcuttur.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;t.e8bff33dce42df03a467e488fb31ee89a8b9ca11&quot;&gt;&lt;/a&gt;&lt;a id=&quot;t.1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table class=&quot;c28&quot;&gt;
+
+&lt;tbody&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c30&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;CVE&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c26&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c4&quot;&gt;İlişkili Kötü Amaçlı Yazılım&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2017-11882](https://nvd.nist.gov/vuln/detail/CVE-2017-11882)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;Loki, FormBook, Pony/FAREIT&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2017-0199](https://nvd.nist.gov/vuln/detail/CVE-2017-0199)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;FINSPY, LATENTBOT, Dridex&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2017-5638](https://nvd.nist.gov/vuln/detail/CVE-2017-5638)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;JexBoss&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2012-0158](https://nvd.nist.gov/vuln/detail/CVE-2012-0158)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;Dridex&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2019-0604](https://nvd.nist.gov/vuln/detail/CVE-2019-0604)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;China Chopper&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2017-0143](https://nvd.nist.gov/vuln/detail/CVE-2017-0143)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;Multiple using the EternalSynergy and EternalBlue Exploit Kit&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2018-4878](https://nvd.nist.gov/vuln/detail/CVE-2018-4878)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;DOGCALL&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2017-8759](https://nvd.nist.gov/vuln/detail/CVE-2017-8759)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;FINSPY, FinFisher, WingBird&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2015-1641](https://nvd.nist.gov/vuln/detail/CVE-2015-1641)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;Toshliph, Uwarrior&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr class=&quot;c9&quot;&gt;
+
+&lt;td class=&quot;c14&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c18&quot;&gt;[CVE-2018-7600](https://nvd.nist.gov/vuln/detail/CVE-2018-7600)&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;td class=&quot;c20&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;
+
+&lt;span class=&quot;c1&quot;&gt;Kitty&lt;/span&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;span class=&quot;c13&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hakan Yazıcı &lt;br /&gt;Uygulama Güvenliği Mühendisi&lt;/strong&gt;&lt;br /&gt;
+ &lt;strong&gt;Endpoint Bilgi Teknolojileri Güvenliği ArGe A.Ş - 2021&lt;/strong&gt;&lt;br /&gt;
+ &lt;strong&gt;LinkedIn: https://www.linkedin.com/in/hakan-yazici/&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>hakanyazici</name></author><category term="blog" /><category term="Uygulama Güvenliği" /><category term="mitre" /><category term="DevSecOps" /><summary type="html">MITRE, geçmiş iki yıl boyunca yazılımcıların başına bela olan en yaygın ve en tehlikeli açıkların ilk 25 listesini paylaştı.</summary></entry><entry><title type="html">Tedarik Zinciri Saldırısı (Supply Chain Attack)</title><link href="http://localhost:4000/tedarilk-zinciri-saldirisi/" rel="alternate" type="text/html" title="Tedarik Zinciri Saldırısı (Supply Chain Attack)" /><published>2021-05-26T09:00:00+03:00</published><updated>2021-05-26T09:00:00+03:00</updated><id>http://localhost:4000/tedarilk-zinciri-saldirisi</id><content type="html" xml:base="http://localhost:4000/tedarilk-zinciri-saldirisi/">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1684/0*yCU4CQz-FpfFZXTH&quot; alt=&quot;Resim&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bu yazımda size Tedarik Zinciri ve saldırıları hakkında bilgi vermek istiyorum. Öncelikle “Tedarik Zinciri nedir?” biraz ondan bahsetmeliyim.&lt;/p&gt;
+
+&lt;h1 id=&quot;tedarik-zinciri-nedir-&quot;&gt;Tedarik Zinciri Nedir ?&lt;/h1&gt;
+&lt;p&gt;Bilişim sektöründe “Tedarik Zinciri” dediğimiz kavramı, ürünler ya da hizmetlerin tedarikçiden müşteriye doğru hareketlerini kapsayan ve bu süreç içerisindeki grupları, insanları, teknolojileri, faaliyetleri ve kaynakları kapsayan sistemlerin bütününe verilen isimdir.
+Şirketlerin maliyetlerini düşürüp, rekabetçi iş ortamında kalabilmek için tedarik zincirlerini geliştirirler. Optimize edilmiş bir tedarik zinciri daha düşük maliyetler ve daha hızlı bir üretim döngüsü ile sonuçlandığından, tedarik zinciri yöntemi çok önemli bir süreçtir. Peki şimdi gelin biraz da bu sistemler bütününe yapılan saldırılardan bahsedelim.&lt;/p&gt;
+
+&lt;h1 id=&quot;tedarik-zinciri-saldırısı-nedir&quot;&gt;Tedarik Zinciri Saldırısı Nedir?&lt;/h1&gt;
+&lt;p&gt;Tedarik zinciri saldırıları, tedarik zinciri ağındaki güvenlik açıklarından yararlanarak bir şirkete zarar vermeye çalışan bir siber saldırı girişimidir. Tedarik zinciri saldırısı, firmanın ağına erişim sağlamak için sürekli ağ korsanlığı veya sızma süreçleri sonucunda saldırılan şirkete zarar veren kesintilere yol açar.
+Tedarik zincirlerinin birbirleri ile bağlanması ile risk daha da artmaktadır.Accenture 2020’de yapılan siber saldırıların %40’ının genişletilmiş tedarik zincirinden kaynakladığını belirtiyor.
+Bir tedarik zinciri saldırısı, hedefteki şirkete zarar vermek için zincirdeki bir şirketin bilgisayar sistemlerine sızmaya ve bunları bozmaya çalışır. Buradaki fikir, hedef şirkete göre, şirketin kilit tedarikçilerinin veya satıcılarının saldırıya karşı daha savunmasız olabilmeleri ve bu da onları zincirin zayıf halkası olarak nitelendirilmesidir. Bu nedenle bu saldırılar bilgisayar korsanlığı girişimleri ile veya kötü amaçlı yazılım yerleştirme yoluyla ortaya çıkabilir ve ana hedeflere yapılan saldırılara göre daha yaygın olabilir.&lt;/p&gt;
+
+&lt;h1 id=&quot;tedarik-zinciri-saldırı-türleri&quot;&gt;Tedarik Zinciri Saldırı Türleri&lt;/h1&gt;
+&lt;p&gt;Bir tedarik zincirine saldırmanın birçok yolu bulunmaktadır. Bu saldırı türleri çok geniş kapsamlıdır. Aşağıda en yaygın türlerini özetleyeceğim.&lt;/p&gt;
+&lt;h2 id=&quot;yazılım-güncelleme-saldırısı&quot;&gt;Yazılım Güncelleme Saldırısı&lt;/h2&gt;
+&lt;p&gt;Tedarik zinciri saldırılarının en büyük tehditlerinden birisi yazılım güncellemeleri şeklinde gelir. Neredeyse her şirket, süreçlerinde birçok üçüncü parti yazılım çözümlerine bağımlıdır. Geçmişten günümüze bilgi teknolojilerindeki güvenlik uzmanları, yazılımın güvenlik açıklarının tehlikeleri konusunda uyarılarda bulunurlar. Bunun en kolay çözümü yazılımların güncellenmiş ve zaafiyetlere karşı yamaları yayınlanmış versiyonlarını kullanmaktır.
+Peki bu güncelleme ve yamalar aslında tehlikenin ta kendisiyse ?
+Tespit edilmesi gereken en zorlu tehditlerden biri, güvenlik açıklarının, istismarların ve hatta kötü amaçlı yazılımların kasıtlı olarak yazılım güncellemelerine dahil edilmesidir.
+Tabii ki hiçbir şirket bunu kasıtlı olarak yapmaz. Ancak bir şirket ve geliştirme ortamı tehlikeye düştüyse, kötü niyetli biri yazılım güncellemesine bir dizi kötü amaçlı kod yazılım enjekte edebilir. Sisteme gönderilen bu güncelleme sayesinde kötü amaçlı kod ağınızın tamamına yayılmaya başlar.
+Geçtiğimiz yıl gerçekleşen SolarWinds saldırısı bu türe ait örneklerin en günceli ve en güçlülerindendir. Bu atakta yer alan virüslü güncelleme, sayısı bilinemeyecek kadar çok işletmede ve hatta ABD devlet kurumlarında bilinmeyen sayıda sisteme yayıldı. Saldırı oldukça karmaşık olduğundan hasarın ne kadar derinleştiği hala bilinmemektedir.
+Bu tür saldırılar acımasız olduğu kadar uygulanması da zordur. Kötü amaçlı yazılımları meşru bir yazılım güncellemesine yerleştirme için o şirkette yeterli erişim elde etmek kesinlikle çok uzun soluklu ve zor bir süreçtir.&lt;/p&gt;
+&lt;h2 id=&quot;önceden-yüklenmiş-kötü-amaçlı-yazılım-i̇çeren-cihazlar&quot;&gt;Önceden Yüklenmiş Kötü Amaçlı Yazılım İçeren Cihazlar&lt;/h2&gt;
+&lt;p&gt;Diğer bir tedarik zinciri saldırı tehdidi iste altyapınıza eklediğiniz fiziksel cihazlardan gelir. Cihazların önceden yüklenmiş kötü amaçlı yazılımlarla gönderildiği çok sayıda senaryo bulunmaktadır. 2015 yılında ortaya çıkan Superfish skandalı da bu saldırıya en büyük örneklerden biridir.
+Ayrıca zaman zaman bazı hükümetlerin bile önceden yüklenmiş kötü amaçlı yazılımların bulunduğu USB sürücüleri ile bağlantılı oldukları gündeme gelmektedir.&lt;/p&gt;
+&lt;h2 id=&quot;üçüncü-parti-hesaplarının-çalınması-veveya-kaybı&quot;&gt;Üçüncü Parti Hesaplarının Çalınması ve/veya Kaybı&lt;/h2&gt;
+&lt;p&gt;Bilgi güvenliği yöneticilerinin üzerinde durması gereken açık ara en önemli tehdit, kendi işgücünün sahip olduğu kötü alışkanlıklardır. İzin verildiği takdirde personeller korkunç diye tabir edebileceğimiz parolalar kullanır, bunları belirli sürelerle değiştirmez ve hatta açık bir şekilde bir yerlere yazarlar. İnandırıcı olmasa bile oltalama e-postalarına tıklarlar. Bunlar bu tehlikenin sadece ufak bir kesiti.
+Sorun şu ki, aynı sorun üçüncü parti hizmet personelleri için de geçerlidir. Bazı işlemler için, başka bir yolu olmadığından, onlara hassas verilere erişim sağlayan hesap bilgilerinin verilmesi gerekebilir. Kötü niyetli kişiler bu hesaplara ait bilgileri ele geçirirse sizin için inanılmaz sonuçlar yaratabilecek zararlar meydana gelebilir.
+2013 yılında ortaya çıkan bir ihlalde, kötü niyetli kişiler doğrudan birincil hedefe saldırmadılar. Tek yaptıkları şey sistem bakım personelinin hesap bilgilerini çalmaktı. Sonrasında müşteri bilgilerinden oluşan bir hazineye girmeleri için gereken kapıyı aralamış oldular.
+Şimdiye kadar tedarik zinciri saldırıları için kullanılan yollardan sadece en önemli üçünü ele aldık. Bunlar gibi daha nice saldırı yollarını kısa bir araştırma ile sizin de bulmanız mümkün.&lt;/p&gt;
+
+&lt;h1 id=&quot;i̇şletmenizi-tedarik-zinciri-saldırılarından-korumak-i̇çin-bazı-öneriler&quot;&gt;İşletmenizi Tedarik Zinciri Saldırılarından Korumak İçin Bazı Öneriler&lt;/h1&gt;
+&lt;p&gt;Tedarik zinciri saldırıları hakkında şu anda bildikleriniz göz önüne alındığında, büyük olasılıkla şirketinizin bunları önlemek için neler yapabileceğini merak ediyorsunuz.
+İşte risk yönetimi için bazı stratejiler:&lt;/p&gt;
+&lt;h2 id=&quot;yazılım-kurulum-yetkilerini-kontrol-edin&quot;&gt;Yazılım Kurulum Yetkilerini Kontrol Edin&lt;/h2&gt;
+&lt;p&gt;Her türlü yazılım yükleme yetkilerinin belirlenmiş olması gerekir, ki bu kurumsal işletmelerde zahmetsizdir. Yazılım kurulumu ve güncellemeleri için yetkilendirme yapabileceğiniz yönetici güvenlik kontrollerini veya BT araçlarını kullanın. Güvenlik ekibinin bu yüklemeleri onaylamadan önce dikkatlice incelemesi gerekmektedir.&lt;/p&gt;
+&lt;h2 id=&quot;dosya-ve-ağ-erişimine-katı-bir-denetim-uygulayın&quot;&gt;Dosya ve Ağ Erişimine Katı Bir Denetim Uygulayın&lt;/h2&gt;
+&lt;p&gt;Her çalışanın her dosyaya erişmesi gerekmediği gibi aynı durum üçüncü parti hizmet personelleri için de geçerlidir. Üçüncü parti personelinin yalnızca ihtiyaç duydukları veriye erişebildiğinden ve başka bir işlem yapamadıklarında emin olun.&lt;/p&gt;
+&lt;h2 id=&quot;tedarik-zincirinizi-i̇nceleyin-ve-haritalandırın&quot;&gt;Tedarik Zincirinizi İnceleyin ve Haritalandırın&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;BT tedarik zincirinizi net bir şekilde anlıyor musunuz?&lt;/li&gt;
+  &lt;li&gt;Saldırı yüzeyini tedarik zincirinizle bağlantılı olarak azaltmak için nerede iyileştirmeler yapabilirsiniz?&lt;/li&gt;
+  &lt;li&gt;Üçüncü parti bağlantılarınız en katı siber güvenlik standartlarına uygun mu ?&lt;/li&gt;
+  &lt;li&gt;Yazılım derleme sürecini nasıl yönetiyorlar ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Maalesef ki, birçok işletme bu soruların cevaplarına sahip değildir. Bu zincirin halkalarının ne yaptığını ve neye erişimlerinin olduğunu belirlemek için zaman ayırın. Kontrol listesi ve güvenlik anketleri hazırlayın. Zincirin halkalarına verilerinizi güvende tutmak için yaptıklarıyla ilgil rahatsız edici sorular sormaktan çekinmeyin. Sözleşmelerinizde güvenlik beklentileri oluşturmayı düşünün. Ek olarak, zincirinizin halkaları iki faktörlü kimlik doğrulamayı etkinleştirirlerse tehdit aktörleri için ek bir uçurum daha oluşturulmuş olur.&lt;/p&gt;
+&lt;h2 id=&quot;birbirleriyle-bağlantılı-cihazlar-i̇çin-güvenlik-stratejisi-geliştirin&quot;&gt;Birbirleriyle Bağlantılı Cihazlar İçin Güvenlik Stratejisi Geliştirin&lt;/h2&gt;
+&lt;p&gt;Gün geçtikçe daha fazla sayıda cihaz internete açılıyor. Bu cihazların birbirleri arasındaki bağa Nesnelerin İnterneti (IoT) adı veriliyor. Sağlam işlevsellikleri ve yüksek performans sağladıkları için günümüzde bunların kullanılması zorunlu bir hal almış durumda. Ancak bu durum büyük bir de risk getiriyor: Bağlı her cihaz potansiyel bir güvenlik tehdididir.
+Onları yasaklayamayacağınız için yönetmeyi öğrenmelisiniz. Bu cihazlar için bir siber güvenlik stratejisi geliştirmeye yatırım yapın.&lt;/p&gt;
+&lt;h2 id=&quot;kendinizi-ve-ekibinizi-sürekli-eğitin&quot;&gt;Kendinizi ve Ekibinizi Sürekli Eğitin&lt;/h2&gt;
+&lt;p&gt;Ağınızın güvenliğini sağlamak, en son tehditlere ve tehdit vektörlerine ayak uydurmak için hem güçlü teknik bilgi hem de dikkatli olmayı gerektirir. BT uzmanlarının hazırlıklı olduğu tehlikelerden çok daha fazlası gün geçtikçe ortaya çıkıyor.
+Tedarik zinciri saldırıları dahil olmak üzere siber saldırıları önlemek için gerektiği kadar hazır mısınız? Altyapınızın içinde nereye bakacağınızı biliyorsanız ele alınması gereken bazı kör veya zayıf noktalar keşfedebilirsiniz. Nereye bakacağınızı bilmiyorsanız ya da profesyonel bir yardıma ihtiyacınız var ise benimle iletişime geçebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hakan Yazıcı &lt;br /&gt;Uygulama Güvenliği Mühendisi&lt;/strong&gt;&lt;br /&gt;
+ &lt;strong&gt;Endpoint Bilgi Teknolojileri Güvenliği ArGe A.Ş - 2021&lt;/strong&gt;&lt;br /&gt;
+ &lt;strong&gt;LinkedIn: https://www.linkedin.com/in/hakan-yazici/&lt;/strong&gt;&lt;br /&gt;
+ &lt;strong&gt;Kaynakça: https://www.office1.com/blog/supply-chain-attack&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>hakanyazici</name></author><category term="blog" /><category term="DevSecOps" /><category term="AppSec" /><category term="Uygulama Güvenliği" /><summary type="html"></summary></entry></feed>
