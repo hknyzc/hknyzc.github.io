@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-12T16:52:08+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hakan YAZICI</title><subtitle>A blog about Application Security, DevSecOps and stuff related</subtitle><entry><title type="html">DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar</title><link href="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/" rel="alternate" type="text/html" title="DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar" /><published>2023-02-02T22:44:00+03:00</published><updated>2023-02-02T22:44:00+03:00</updated><id>http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar</id><content type="html" xml:base="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/">&lt;p&gt;DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-13T14:40:50+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hakan YAZICI</title><subtitle>A blog about Application Security, DevSecOps and stuff related</subtitle><entry><title type="html">OWASP API Security Top 10 2023 RC Yayınlandı</title><link href="http://localhost:4000/OWASP-API-Security-Top-10-2023-RC-Yay%C4%B1nland%C4%B1/" rel="alternate" type="text/html" title="OWASP API Security Top 10 2023 RC Yayınlandı" /><published>2023-03-13T10:44:00+03:00</published><updated>2023-03-13T10:44:00+03:00</updated><id>http://localhost:4000/OWASP-API-Security-Top-10-2023-RC-Yay%C4%B1nland%C4%B1</id><content type="html" xml:base="http://localhost:4000/OWASP-API-Security-Top-10-2023-RC-Yay%C4%B1nland%C4%B1/">&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/dms/image/D4D12AQFT9YxD57XKcw/article-cover_image-shrink_720_1280/0/1678628255020?e=1684368000&amp;amp;v=beta&amp;amp;t=LCoqxLRBrbW6SEuOVx-GsnLO7w40kFx9GYQ6DWiNxd4&quot; alt=&quot;Resim&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OWASP API Güvenlik Projesi ekibi, OWASP API Güvenliği İlk 10 2023 için hazırladıkları aday listeyi duyurduğunu belirtti. Açık Web Uygulaması Güvenlik Projesi (OWASP) tarafından açıklandığı gibi, API’ler modern uygulamaların kritik bir parçasıdır. API’ler farklı yazılım programlarının birbirleriyle iletişim kurmasına ve müşterilere, iş ortaklarına ve şirket içi ekiplere hizmet sağlamasına olanak tanırlar. API Güvenliği, Uygulama Programlama Arayüzlerinin (API’ler) güvenlik açıklarını, yanlış yapılandırmayı ve güvenlik risklerini azaltmaya yönelik stratejilere odaklanır. Güvenli API’ler olmadan, kuruluşlar ve tüketicileri çevrimiçi bir saldırıya kurban gitme riskiyle karşı karşıyadır. OWASP API Güvenliği İlk 10, kuruluşların API’leriyle ilişkili riskleri ve tehditleri ve bunları nasıl güvence altına alacaklarını anlamalarına yardımcı olan kapsamlı bir kılavuzdur.&lt;/p&gt;
+
+&lt;h1 id=&quot;owasp-top-10-api-2019-ve-owasp-top-10-api-2023-arasındaki-farklar&quot;&gt;OWASP TOP 10 API 2019 ve OWASP TOP 10 API 2023 Arasındaki Farklar&lt;/h1&gt;
+
+&lt;p&gt;OWASP API Top 10, geliştiricilerin API’lerle ilişkili en yaygın güvenlik risklerini anlamasına ve ele almasına yardımcı olmak için tasarlanmıştır. 2019’da hazırlanan liste aşağıdaki 10 riski içermekteydi:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hatalı Nesne Düzeyinde Yetkilendirme (Broken Object Level Authorization)&lt;/li&gt;
+  &lt;li&gt;Bozuk Kullanıcı Kimlik Doğrulaması (Broken User Authentication)&lt;/li&gt;
+  &lt;li&gt;Aşırı Veri Teşhiri (Excessive Data Exposure)&lt;/li&gt;
+  &lt;li&gt;Kaynak Eksikliği ve Hız Sınırlaması (Lack of Resources &amp;amp; Rate Limiting)&lt;/li&gt;
+  &lt;li&gt;Hatalı Fonksiyon/Metod Seviyesi Yetkilendirmesi (Broken Function Level Authorization)&lt;/li&gt;
+  &lt;li&gt;Toplu Atama (Mass Assignment)&lt;/li&gt;
+  &lt;li&gt;Yanlış Güvenlik Yapılandırması (Security Misconfiguration)&lt;/li&gt;
+  &lt;li&gt;Enjeksiyon (Injection)&lt;/li&gt;
+  &lt;li&gt;Uygunsuz Varlık Yönetimi (Improper Assets Management)&lt;/li&gt;
+  &lt;li&gt;Yetersiz Kayıt ve Yetersiz İzleme (Insufficient Logging &amp;amp; Monitoring)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;OWASP API Security Top 10 2023 RC ise, OWASP API Top 10 2019’un güncellenmiş bir sürümüdür. Yeni sürüm, değişen tehdit ortamını yansıtacak ve son sürümden bu yana ortaya çıkan yeni saldırı vektörlerini ele alacak şekilde oluşturuldu ve yayınlandı. OWASP API Security Top 10 2023 RC ise aşağıdaki 10 riski içerir:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Nesne Düzeyinde Hatalı Yetkilendirme (Broken Object Level Authorization)&lt;/li&gt;
+  &lt;li&gt;Hatalı Kimlik Doğrulaması (Broken Authentication)&lt;/li&gt;
+  &lt;li&gt;Nesne Özellik Düzeyindeki Hatalı Yetkilendirme (Broken Object Property Level Authorization )&lt;/li&gt;
+  &lt;li&gt;Sınırlandırılmamış Kaynak Tüketimi (Unrestricted Resource Consumption )&lt;/li&gt;
+  &lt;li&gt;Hatalı Fonksiyon/Metod Seviyesi Yetkilendirmesi (Broken Function Level Authorization)&lt;/li&gt;
+  &lt;li&gt;Sunucu Tarafı İstek Sahtekarlığı (Server Side Request Forgery)&lt;/li&gt;
+  &lt;li&gt;Yanlış Güvenlik Yapılandırması (Security Misconfiguration)&lt;/li&gt;
+  &lt;li&gt;Otomatik Tehditlere Karşı Koruma Eksikliği (Lack of Protection from Automated Threats)&lt;/li&gt;
+  &lt;li&gt;Yanlış Varlık Yönetimi (Improper Inventory Management)&lt;/li&gt;
+  &lt;li&gt;API’lerin Güvenli Olmayan Tüketimi (Unsafe Consumption of APIs)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;farklara-bakış&quot;&gt;Farklara Bakış&lt;/h1&gt;
+
+&lt;p&gt;OWASP API Security Top 10 2023 RC, aşağıdakiler gibi önceki sürümde bulunmayan yeni güvenlik risklerini içerir:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API3:2023 Nesne Düzeyindeki Hatalı Yetkilendirme&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;API3:2019 Aşırı Veri Teşhiri&lt;/em&gt;&lt;/strong&gt; veya &lt;strong&gt;&lt;em&gt;API6:2019 Toplu Atama&lt;/em&gt;&lt;/strong&gt; yoluyla hassas bilgilere yetkisiz erişim elde eden saldırganları bir araya getirdi . Her iki strateji de yetkisiz ve genellikle hassas verilere erişim elde etmek için API uç noktalarını manipüle etmeye odaklanıyordu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API4:2019 Kaynak Eksikliği ve Hız Sınırlaması&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;API4:2023 Sınırlandırılmamış Kaynak Tüketimi&lt;/em&gt;&lt;/strong&gt; olarak yeniden sınıflandırıldı ve bant genişliğini, CPU’yu, belleği veya bir API’nin belirli bir zamanda tüketebileceği depolama miktarını sınırlamaya karşı hız sınırlamaya odaklandı. Bu değişikliğin nedeni basitti, bazı API’ler hangi verileri paylaştıklarına bağlı olarak daha sıkı politikalara ihtiyaç duyar. API’ler, sistemler arasında sürekli olarak büyük miktarda veri ve hatta dosya paylaşmaya çalışan üçüncü taraf hizmetleri tarafından tüketiliyor ve sistem performansının etkilenmemesini veya bilgi işlem kaynaklarının aşırı tüketilmemesini sağlamak için daha katı politikalar gerektiriyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API6:2019 Toplu Atama&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;API6:2023 Sunucu Tarafı İstek Sahtekarlığı&lt;/em&gt;&lt;/strong&gt; olarak yeniden sınıflandırılıyor , her ikisi de API’leri manipüle etmeye odaklanıyor. En büyük fark, Sunucu Tarafı İstek Sahteciliği API’deki çeşitli URI’leri test ederek dahili hizmetleri keşfetmek için kullanılırken Toplu Atama, verileri altyapıya karşı ortaya çıkarmak için API’leri keşfeder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API8:2023 Otomatik Tehditlere Karşı Koruma Eksikliği&lt;/em&gt;&lt;/strong&gt;, Enjeksiyona odaklanan API8:2019’dan bu yana önemli bir değişikliktir . Bu, API’lerden nasıl yararlandıkları konusunda daha akıllı olan, işletmeyi etkileyen işlevselliklerin yanı sıra uygulama hatalarını hedefleyen otomatikleştirilmiş bot ağları oluşturan saldırganlara bir yanıttır.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API9:2023 Yanlış Varlık Yönetimi&lt;/em&gt;&lt;/strong&gt;, veri akışı kör noktalarını ortadan kaldırmak ve ortamdaki tüm genel, özel, iş ortağı ve entegre API hizmetlerini izlemek için beklenen API kullanımını belgeleme ihtiyacını bilerek vurgulamak için ortaya çıkartılmıştır. Saldırganlar, üçüncü taraf API’lerdeki güvenlik açıklarından yararlanıyor ve bu API hizmetlerini kullanan kuruluşlar, veri ihlallerinin kurbanı oluyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;API10:2023 Güvenli Olmayan API Tüketimi&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;API10:2019’dan Yetersiz Günlük Kaydı ve İzlemeye&lt;/em&gt;&lt;/strong&gt; odaklanan bir değişimdi . Güvenli Olmayan Tüketim API’leri, eylemlerin günlüğe kaydedilmesiyle şüpheli etkinliği izleme yeteneği yerine, üçüncü taraf API’lerle entegre olmayı seçerken daha fazla risk farkındalığına duyulan ihtiyacı vurgumaktadır. API Saldırıları, gerçek kullanıcı etkinliğini giderek daha fazla taklit ediyor. Bunun yerine, saldırganlar hassas verilere erişmek için üçüncü taraf API’lerdeki güvenlik açıklarından yararlanıyor.&lt;/p&gt;
+
+&lt;p&gt;Bu değişiklikler, saldırganların modern uygulamalarımızı ve çevrimiçi hizmetlerimizi yönlendiren özel, genel ve üçüncü taraf API hizmetlerinden yararlanmak için stratejilerini nasıl geliştirdiğini vurgulamaktadır. Yukarıdaki değişiklikler ayrıca, kuruluşların üçüncü taraf hizmetleri seçerken daha fazla risk bilincinde olmaları, uygulanan API’lerin tüm yönlerini belgelemeleri ve API’lerin güvenli bir şekilde kullanılmasını sağlamak için koruma mekanizmalarını oluşturmaları için API Güvenlik programlarını nasıl olgunlaştırmaları gerektiğini belirtir.&lt;/p&gt;
+
+&lt;p&gt;Şu an OWASP, API İlk 10 2023’ü her ne kadar aday olarak yayınlamış olsa da 4 yıllık bir sürede API Güvenliği’nin nasıl bir değişime uğradığını da net bir şekilde bizlere sunuyor. Aday olarak yayınlanan bu listeye sizin de önerilerde ve geribildirimlerde bulunma imkanınız mevcut.&lt;/p&gt;
+
+&lt;p&gt;Önümüzdeki günlerde netleşecek olan bu yeni API İlk 10 listesinin maddelerini de detaylı bir şekilde ele alacağım yazılarımı ve geçmişte hazırlamış olduğum yazıları da web sitemi olan https://hy.net.tr adresinde ulaşabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Ayrıca API, Uygulama Güvenliği ve DevSecOps konularında fikir alışverişi için bana her zaman ulaşabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Kaynak: https://owasp.org/www-project-api-security/announcements/2023/02/api-top10-2023rc&lt;/p&gt;</content><author><name>hakanyazici</name></author><category term="blog" /><category term="API Security" /><category term="AppSec" /><summary type="html"></summary></entry><entry><title type="html">DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar</title><link href="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/" rel="alternate" type="text/html" title="DevSecOps’a Geçiş Sırasında İzlenmesi Gereken Yollar" /><published>2023-02-02T22:44:00+03:00</published><updated>2023-02-02T22:44:00+03:00</updated><id>http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar</id><content type="html" xml:base="http://localhost:4000/devsecopsa-gecis-sirasinda-izlenmesi-gereken-yollar/">&lt;p&gt;DevSecOps, uygulama geliştirme süreçlerinde güvenlik ve güvenliğe odaklı bir yaklaşım sunmaktadır. Şirketler, kurumlar ve/veya organizasyonlar, DevSecOps’a geçiş yaparak, uygulamalarının güvenliğini ve verimliliğini artırabilirler. Ancak, bu geçiş süreci, doğru yollar izlenerek tamamlanmalıdır. Aşağıdaki yollar, şirketlerin DevSecOps’a geçiş sırasında izlemesi gereken yollardan en önemlilerini göstermektedir.&lt;/p&gt;
 
 &lt;h1 id=&quot;ekip-çalışması&quot;&gt;Ekip Çalışması&lt;/h1&gt;
 
