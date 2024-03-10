@@ -1,0 +1,42 @@
+---
+title: CWE'lerde 2019'dan 2023'e Trendler
+layout: post
+date: 2023-08-31 10:44
+tag:
+- CWE
+- AppSec
+star: false
+category: blog
+author: hakanyazici
+---
+
+ABD İç Güvenlik Bakanlığı (Department of Homeland Security) tarafından desteklenen ve MITRE tarafından işletilen İç Güvenlik Sistem Mühendisliği ve Geliştirme Enstitüsü (The Homeland Security Systems Engineering and Development Institute), 2023 Ortak Zayıflık Numaralandırması ( Common Weakness Enumeration / CWE) En Tehlikeli 25 Yazılım Zayıflığını yayınladı. CWE Top 25, önceki iki takvim yılı için CWE zayıflıklarıyla kök neden eşleştirmeleri için Ulusal Güvenlik Açığı Verileri'ndeki ( National Vulnerability Data / NVD) halka açık güvenlik açığı verileri analiz edilerek hesaplanmaktadır. Bu zayıflıklar yazılımda ciddi güvenlik açıklarına yol açmaktadır. Bir saldırgan genellikle etkilenen bir sistemin kontrolünü ele geçirmek, veri çalmak veya uygulamaların çalışmasını engellemek için bu güvenlik açıklarından faydalanabilir.
+
+# 2019'dan 2023'e Trend Değişimi
+
+Bu yılın 2023 CWE Top 25 listesi çok önemli olmakla birlikte, listenin yıldan yıla nasıl değiştiğini göz önünde bulundurmak da önemlidir. Bu, gerçek dünyadaki ilginç eğilimleri, güvenlik politikası ve yatırım karar verme sürecini bilgilendirebilecek istismar edilebilir zayıflıkları belirleyebilir. CWE sıralamalarında hem yukarı hem de aşağı yönlü eğilimleri gözlemlemek için, CWE Top 25 listesinin 2019'daki başlangıcından bu yana tutarlı hareket gösteren CWE'leri incelendi.
+NVD/Top 25 verilerinin, her yıl bildirilen güvenlik açığı türleri, yeniden eşleme stratejisindeki değişiklikler, CWE haritalama görünümüne yeni CWE girişlerinin eklenmesi ve daha fazlası dahil olmak üzere çeşitli faktörler nedeniyle yıldan yıla çok dinamik olduğunu belirtmek önemlidir. Bu nedenle, veri önyargıları nedeniyle Top 25 metodolojisi kullanılarak "zirvenin" (yani ilk 40 pozisyonun) çok ötesine geçildiğinde sıralamalar daha az güvenilirdir (örneğin, verilerdeki birkaç CVE'nin artması, bir CWE'nin 60 ve 100+ arasındaki konumunu büyük ölçüde değiştirebilir).
+
+# Tutarlı Yükseliş Gösterenler
+
+Aşağıdaki zayıflıklar sıralamada sürekli bir yükseliş eğilimi göstermiştir. Yazılım geliştiricileri, güvenlik ve sistem uzmanları bunların farkında olmalı ve düzeltme çabalarında bunlara öncelik vermeyi düşünmelidir.
+- **CWE-862: Eksik Yetkilendirme (Missing Authorization)** - CWE-862 2019 yılında 36. sırada yer alarak zirveye yerleşmiştir. CWE Top 25'e 2020'de 25. sıradan girdi ve her yıl sürekli olarak yükseldi, şimdi 2023'te 11. sırada (sürekli olarak yukarı doğru hareket edenler arasında en yüksekte olanı). Bu durum, zayıflığın 2020'den bu yana CWE Top 25'te yer almasına rağmen, geliştiricilerin gerektiğinde yetkilendirme tekniklerini tutarlı bir şekilde uygulamadıklarını gösterebilir. Yazılımcılar, yetkilendirmenin uygulanması konusunda gayretli olmaya devam etmelidir.
+- **CWE-918: Sunucu Tarafı İstek Sahteciliği (Server-Side Request Forgery) (SSRF)** - CWE-918 2019'da 32. sırada yer alarak zirvedeki yerini aldı. CWE Top 25'e ilk kez 2021 yılında 24. sırada girmiştir. Bu CWE, sıralamada CWE-862 kadar yükselmemiş olsa da, 2023'te 19. sıraya kadar istikrarlı bir şekilde tırmanmıştır.
+- **CWE-639: Kullanıcı Kontrollü Anahtar Aracılığıyla Yetkilendirme Bypass'ı (Authorization Bypass Through User-Controlled Key)** - CWE-639 2019'da ilk 40'ın çok dışında yer almaya başladı, ancak sonraki yıllarda 2023'te 38. sıraya gelene kadar sıralamada istikrarlı bir tırmanış gördü. Bu, CWE-639'u bu yıl ilk kez "zirveye" yerleştiriyor ve yükseliş eğilimleri göz önüne alındığında, göz kulak olmak ve daha fazla hareketini not etmek gözlemlemek gerekecektir.
+
+# Diğer Yükselenler
+
+Yukarı doğru hareket eden diğer CWE'ler ise sıralamada hiç aşağı inmemiş ancak en az bir yıl sıralamada yeri değişikliğine uğramamıştır. Bu yükselenler her yıl sıralamada artış gösteren CWE'ler kadar tutarlı olmasa da yine de dikkat çekicidir. Bunlar:
+- **CWE-787: Sınırların Dışında Yazma (Out-of-bounds Write)** - 2019'dan bu yana 12. sıradan 1. sıraya yükseldi (2020'de 2. sıraya yükseldi ve 2021'den bu yana 1. sırada).
+- **CWE-434: Tehlikeli Türe Sahip Dosyanın Kısıtlamasız Yüklenmesi (Unrestricted Upload of File with Dangerous Type)** - 2019'dan bu yana 16. sıradan 10. sıraya yükselmiştir.
+- **CWE-89: SQL Komutunda Kullanılan Özel Unsurların Uygun Olmayan Şekilde Etkisiz Hale Getirilmesi** ('SQL Enjeksiyonu') - 2019'dan bu yana 6. sıradan 3. sıraya yükselmiştir.
+
+# Tutarlı Düşüş Gösterenler
+
+Sıralamada düşüş eğilimi gösteren zayıflıklar potansiyel olarak toplumda farkındalığın ve hafifletmenin arttığını gösterebilir, ancak bu zayıflıklardan bazıları CWE Top 25'te kalmaya devam etmektedir. Umut verici eğilime rağmen, bunlar BT uzmanlarının dikkate alması için yeterince önemli olmaya devam etmektedir. Bu düşüş eğilimli CWE'ler aşağıda açıklanmaktadır.
+- **CWE-190: Tamsayı Taşması veya Sarması (Integer Overflow or Wraparound)** - CWE-190 2019'da 8. sırada yer alırken 2023'te 14. sıraya gerilemiştir. Bu, sürekli olarak aşağı doğru hareket edenler arasında en az değişiklik olmasına rağmen, her yıl İlk 25'te yer alması nedeniyle dikkat çekicidir. Bu aşağı yönlü harekete neyin sebep olduğuna bakılmaksızın, mevcut sıralaması toplum tarafından daha fazla farkındalık ve hafifletmeye ihtiyaç duyulduğunu göstermektedir.
+- **CWE-732: Kritik Kaynak için Yanlış İzin Ataması (Incorrect Permission Assignment for Critical Resource)** - CWE-732 2019 yılında 15. sırada yer alırken 2023 yılında 31. sıraya gerilemiştir. İlk olarak 2022'de İlk 25'ten düşmüş ve 2023'te sadece bir sıra gerilemiştir. Sıralamadaki bu istikrarlı düşüşe neyin neden olduğunu kesin olarak belirlemek zordur, ancak muhtemelen erişim kontrolü CWE'lerini doğru bir şekilde eşleştirmeye daha fazla vurgu yapılmasına bağlanabilir.
+CWE-611: XML Harici Varlık Referansının Uygunsuz Kısıtlanması (Improper Restriction of XML External Entity Reference) - CWE-611 2019'da 17. sırada yer alırken 2023'te 28. sıraya gerilemiştir. Küçük artışlarla da olsa sıralamada istikrarlı bir şekilde düşmüş ve bu yıl kısa süre önce CWE Top 25'ten çıkmıştır.
+- **CWE-426: Güvenilmeyen Arama Yolu (Untrusted Search Path)** - CWE-426, 2019'da 22. sırada başlayıp 2021'den itibaren İlk 40'tan tamamen düşerek, sürekli olarak aşağı doğru hareket edenler arasında sıralamada en fazla düşüş gösteren oldu. Önceki bir CWE Top 25 zayıflığının zirvenin çok altında olması alışılmadık bir durumdur. Her ne kadar 2019'dan 2020'ye yalnızca 4 sıra düşmüş olsa da, o tarihten itibaren sıralamada sürekli olarak düşmüştür. Bunun nedeni muhtemelen, 2019'da zirveden 2023'te 27. sıraya yükselen sıraya yükselen CWE-427: Kontrolsüz Arama Yolu Unsuru ile güvenlik açıklarının daha doğru eşleştirilmesidir. Bu CWE'ler bazı benzerlikleri paylaşmaktadır, bu nedenle CVE Kayıtlarının bu ikisi arasında düzgün bir şekilde eşleştirilmesini sağlamak için son yıllarda ekstra özen gösterilmiştir.
+
+Not: Bu yazı https://cwe.mitre.org/top25/archive/2023/2023_trends.html adresinde paylaşılan yazının tercümesi, yerelleştirilmesi ve kendi yorumlamamı içermektedir.
