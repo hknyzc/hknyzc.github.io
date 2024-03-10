@@ -1,5 +1,5 @@
 ---
-title: Tehditlere Karşı Mücadeleyi Standartlaştırmak: SARIF Uygulama Güvenliğini Nasıl Güçlendiriyor?
+title: Tehditlere Karşı Mücadeleyi Standartlaştırmak\: SARIF Uygulama Güvenliğini Nasıl Güçlendiriyor?
 layout: post
 date: 2024-02-26 10:44
 tag:
